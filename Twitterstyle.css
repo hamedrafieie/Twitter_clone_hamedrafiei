@@ -1,0 +1,56 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.main {
+  padding: 7px;
+  overflow: hidden;
+  margin: auto;
+  width: 598px;
+  background: #16202a;
+}
+#profilepic {
+  height: 48px;
+  width: 48px;
+  border-radius: 25px;
+  float: left;
+}
+.userid > p {
+  height: 18px;
+  margin: auto;
+  margin-top: 5px;
+}
+.userid {
+  float: left;
+  margin-left: 10px;
+}
+#name{
+ color: white ;
+  font-weight: bold;
+  font-family: "Roboto Medium" sans-serif;
+}
+.tweet {
+  float: left;
+}
+.time {
+  float: left;
+}
+.action {
+  float: left;
+  margin: auto;
+  vertical-align: center;
+  width: 100%;
+}
+.actions {
+  vertical-align: center;
+  horiz-align: center;
+}
+.line {
+  float: left;
+  width: 95%;
+  margin-left: 10px;
+}
+.number {
+  color: gray;
+  vertical-align: center;
+  margin-bottom: 10px;
+}
